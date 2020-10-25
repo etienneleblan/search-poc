@@ -1,14 +1,5 @@
 # search poc
 
-## TODOS
-
-- article & search data in route for navigation UX
-- Search filters
-- Source options
-- Article meta
-- Reading progress DONE
-- More stories in this issue (toc)?
-
 ## How to run the app locally
 
 1. Shell 1:
@@ -18,7 +9,7 @@
 5. `cd front`
 6. `npm run serve`
 
-## How to run the app publicly
+## How to run the app publicly with ngrok
 
 1. In server, `flask run`
 2. `./ngrok start -all`

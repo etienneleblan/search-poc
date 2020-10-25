@@ -1,12 +1,5 @@
-# TODOS
+# Search POC
 
-## server
+Powered by Zinio search API
 
-- replace server app.py secrets by config
-- set up git ignore
-
-## front
-
-- rename to front
-- add endpoints as secrets
-- gitignore
+Instructions on how to run the app are in the `front` readme
