@@ -1,14 +1,14 @@
 # SERVER
 /server/__pycache__
 /server/.env
-
+/server/tests.py
 
 
 # FRONT 
 
 /front/.DS_Store
 /front/node_modules
-/front//dist
+/front/dist
 
 # local env files
 /front/.env.local
